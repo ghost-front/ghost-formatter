@@ -1,0 +1,10 @@
+/node_modules
+package-lock.json
+yarn.lock
+/docs
+/scripts
+/src
+.gitignore
+.eslintrc.js
+.eslintignore
+.babelrc
